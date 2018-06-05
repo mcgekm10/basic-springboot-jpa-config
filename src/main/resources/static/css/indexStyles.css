@@ -1,0 +1,10 @@
+body{	
+	background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+}
+
+.jumbotron{
+	background-color: transparent;
+	color: #fff;
+	text-align: center;
+	margin-top: 10rem;
+}

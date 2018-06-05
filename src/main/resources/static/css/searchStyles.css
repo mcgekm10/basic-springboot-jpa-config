@@ -1,0 +1,13 @@
+.jumbotron{
+	margin-top: 8rem;
+}
+
+form{
+	width: 51%;
+	margin: 0 auto;
+}
+
+.form-check{
+	padding: 1rem;
+	font-weight: bold;
+}
